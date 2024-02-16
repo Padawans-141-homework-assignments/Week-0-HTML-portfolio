@@ -1,0 +1,43 @@
+/* Used to center the h1 of the web page */
+#top-heading {
+    text-align: center;
+}
+
+/* Controls the size of both images around the h1 of the web page */
+.heading-img {
+    max-width: 100%;
+    max-height: 25px;
+    height: auto;
+}
+
+/* Controls the details of the heading and image div */
+.div1 {
+    border: 2px solid #d32f2f;
+    background-color: #00bcd4;
+    border-radius: 10px;
+}
+
+/* Controls the details of the introduction div */
+#div2 {
+    border: 2px solid #001f3f;
+    background-color: #ffeb3b;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Controls the details of the favorite things/ form div */
+#div3 {
+    border: 2px solid #004d40;
+    background-color: #ffcdd2;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Controls the details of the web dev div */
+#div4 {
+    border: 2px solid #6a1b9a;
+    background-color: #c8e6c9;
+    padding: 20px;
+    border-radius: 10px;
+}
